@@ -1,0 +1,11 @@
+{
+  "org": "lukeed",
+  "repo": "escalade",
+  "versions": [
+    {
+      "commit": "fa5be167391581849cff04dbc75dc2978744b642",
+      "tag": "v3.2.0",
+      "parsed_at": "2026-11-10T04:10:31.526114+00:00"
+    }
+  ]
+}

@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/lukeed/escalade/commit/fa5be167391581849cff04dbc75dc2978744b642",
       "git:hexsha": "fa5be167391581849cff04dbc75dc2978744b642",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v3.2.0"
     },
     {

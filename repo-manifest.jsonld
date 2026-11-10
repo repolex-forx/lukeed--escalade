@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/lukeed/escalade/commit/fa5be167391581849cff04dbc75dc2978744b642",
       "git:hexsha": "fa5be167391581849cff04dbc75dc2978744b642",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v3.2.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v3.2.0",
+      "repolex:parsedAt": "2026-11-10T04:10:31.525653+00:00"
     },
     {
       "@id": "https://repolex.ai/r/lukeed/escalade/commit/97381e2b163b3ba3617eea146844dc74c491e25d",
